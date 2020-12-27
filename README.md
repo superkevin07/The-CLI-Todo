@@ -5,7 +5,7 @@
 ### ABOUT
 
 This is just a simple tool to generate a **Markdown** file as a To-Do list using the console.
-
+Recommended to put this exe in an empty folder as this will create the md file in the same folder where the exe is.
 ***
 
 ### HOW TO USE IT
