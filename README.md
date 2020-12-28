@@ -12,5 +12,7 @@ Recommended to put this exe in an empty folder as this will create the md file i
 
 Just run the .exe and it will initialize then it will ask you to type something, The typings of yours will be marked as **"[USER] "**.
 
-When you are done adding tasks, type **done@** to finish adding tasks. Then read the text given by Console. 
+When you are done adding tasks, type **done@** to finish adding tasks. Then read the text given by Console.
+
+You will need a markdown reader to see the check box and the markdiwn Todo list. 
 ***
