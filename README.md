@@ -14,5 +14,5 @@ Just run the .exe and it will initialize then it will ask you to type something,
 
 When you are done adding tasks, type **done@** to finish adding tasks. Then read the text given by Console.
 
-You will need a markdown reader to see the check box and the markdiwn Todo list. 
+You will need a markdown reader to see the check box and the markdown Todo list. 
 ***
